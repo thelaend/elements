@@ -1,5 +1,5 @@
- THE LÄND profile
+ THE LÄND graphic elements
 ======================
-Inofficial Profile Pictures from "THE LÄND"
+Inofficial graphic elements, Profile Pictures and so on from "THE LÄND".
 
 ![Ä](profile.svg)
